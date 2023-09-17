@@ -2,18 +2,21 @@
 
 ### Robert Falkbäck Rovenko 🎾
 
-I am a frontend developer, specialized in mobile and web applications, and I am a problem solving enthuisiast! 🎲
+🎲 I am a frontend developer, specialized in mobile and web applications, and I am a problem solving enthuisiast! 
 
-💻 Currently I´m studing App Development at the Stockholm Technical Institute with graduatin June 2024. After graduating I´m planning to get a job and work with my skills in either Hybrid App Development, IOS or Android. 
+💻 Currently I´m studing App Development at the Stockholm Technical Institute with graduatin June 2024. 
+After graduating I´m planning to get a job and work with my skills in either Hybrid App Development, IOS or Android. 
 
 💼 Check out my portfolio for some of my public projects in my different languages like React Native, Kotlin, JavaScript and Swift!
 
-Connect with me on my social media! 
+### Connect with me on my social media! 
 
-Robert Falkbäck Rovenko
+[<img src="https://github.com/RobertRovenko/RobertRovenko/blob/main//linkedin.png" width="50" height="50">](https://www.linkedin.com/in/robert-falkb%C3%A4ck/)
+[<img src="https://github.com/RobertRovenko/RobertRovenko/blob/main//instagram.png" width="50" height="50">](https://www.instagram.com/robertfalkback/)
 
-[<img src="https://github.com/RobertRovenko/RobertRovenko/blob/main//instagram.png" width="50" height="50">](https://www.linkedin.com/in/your-linkedin-profile/)
-[<img src="https://github.com/RobertRovenko/RobertRovenko/blob/main//instagram.png" width="50" height="50">](https://www.instagram.com/your-instagram-profile/)
+### Visit my Website:
+
+[Website](https://www.robertrovenko.com/)
 
 <!--
 **RobertRovenko/RobertRovenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
