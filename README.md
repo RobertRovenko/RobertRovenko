@@ -1,6 +1,6 @@
 ### Hi 👋, I´m
 
-### Robert Falkbäck Rovenko 🎾
+### Robert Falkbäck Rovenko
 
 🎲 I am a frontend developer, specialized in mobile and web applications, and I am a problem solving enthuisiast! 
 
@@ -11,8 +11,8 @@ After graduating I´m planning to get a job and work with my skills in either Hy
 
 ### Connect with me on my social media! 
 
-[<img src="https://github.com/RobertRovenko/RobertRovenko/blob/main//linkedin.png" width="50" height="50">](https://www.linkedin.com/in/robert-falkb%C3%A4ck/)
-[<img src="https://github.com/RobertRovenko/RobertRovenko/blob/main//instagram.png" width="50" height="50">](https://www.instagram.com/robertfalkback/)
+[<img src="https://github.com/RobertRovenko/RobertRovenko/blob/main//linkedin.png" width="45" height="45">](https://www.linkedin.com/in/robert-falkb%C3%A4ck/)
+[<img src="https://github.com/RobertRovenko/RobertRovenko/blob/main//instagram.png" width="45" height="45">](https://www.instagram.com/robertfalkback/)
 
 ### Visit my Website:
 
