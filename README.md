@@ -2,12 +2,12 @@
 
 ### Robert Falkbäck Rovenko
 
-🎲 I am a frontend developer, specialized in mobile and web applications, and I am a problem solving enthuisiast! 
+🎲 I am a creative frontend developer, specialized in making good looking mobile and web applications with easy and maintanable code.
 
-💻 Currently I´m studing App Development at the Stockholm Technical Institute with graduation June 2024. 
-After graduating I´m planning to work with my skills in either Hybrid App Development, IOS or Android. 
+💻 Currently I´m studing App Development at the Stockholm Technical Institute with graduation June 2024.
+After graduating I´m planning to work with my skills in either Hybrid or Native app development for IOS, Android or even Web. 
 
-💼 Check out my portfolio for some of my public projects in my different languages like React Native, JavaScript, Kotlin and Swift!
+💼 Check out my portfolio for some of my public projects in my different languages like JavaScript, TypeScript, Kotlin, Java and Swift!
 
 ### Connect with me on my social media! 
 
