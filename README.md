@@ -18,6 +18,24 @@ After graduating I´m planning to work with my skills in either Hybrid or Native
 
 [Robert Falkbäck Rovenko](https://www.robertrovenko.com/)
 
+Web Front-End Skills:
+HTML5 CSS TypeScript JavaScript
+
+Hybrid
+React Native Node.js TypeScript JavaScript
+
+IOS
+Swift SwiftUI Storyboard 
+
+Android
+Kotlin Java 
+
+IDEs:
+VSCode Xcode Android Studio
+
+Extra 
+Git Github Agile Methodology
+
 <!--
 **RobertRovenko/RobertRovenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![linkedin](https://github.com/RobertRovenko/RobertRovenko/assets/32544623/faa95a5d-c003-4ce7-90b5-4367e5500c59)
