@@ -9,7 +9,7 @@ After graduating I´m planning to work with my skills in either Hybrid or Native
 
 💼 Check out my portfolio for some of my public projects in my different languages like JavaScript, TypeScript, Kotlin, Java and Swift!
 
-### Connect with me on my social media! 
+### Connect with me on social media! 
 
 [<img src="https://github.com/RobertRovenko/RobertRovenko/blob/main//linkedin.png" width="45" height="45">](https://www.linkedin.com/in/robert-falkb%C3%A4ck/)
 [<img src="https://github.com/RobertRovenko/RobertRovenko/blob/main//instagram.png" width="45" height="45">](https://www.instagram.com/robertfalkback/)
