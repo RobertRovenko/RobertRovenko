@@ -2,12 +2,13 @@
 
 ### Robert Falkbäck Rovenko
 
-🎲 I am a creative frontend developer, specialized in making good looking mobile and web applications with easy and maintanable code.
+🎲 As a creative frontend developer, I specialize in crafting visually appealing mobile and web applications with code that is both user-friendly and maintainable.
 
-💻 Currently I´m studing App Development at the Stockholm Technical Institute with graduation June 2024.
-After graduating I´m planning to work with my skills in either Hybrid or Native app development for IOS, Android or even Web. 
+💻 I am currently pursuing a degree in App Development at the Stockholm Technical Institute, with an expected graduation date of June 2024. Following graduation, I intend to apply my skills in either Hybrid or Native app development, developing to iOS, Android, or web platforms.
 
-💼 Check out my portfolio for some of my public projects in my different languages like JavaScript, TypeScript, Kotlin, Java and Swift!
+💼 Presently, I am employed as a Fullstack iOS XR app developer at XRSolutions. My role is an internship position spanning from November 2023 to April 2024.
+
+Explore my portfolio to view some of my public projects across various languages, including Swift, JavaScript, TypeScript, Kotlin and Java!
 
 ### Connect with me on social media! 
 
@@ -23,6 +24,8 @@ After graduating I´m planning to work with my skills in either Hybrid or Native
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
+
 
 ### Hybrid
 [![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=white)](https://reactnative.dev/)
