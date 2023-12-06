@@ -6,7 +6,7 @@
 
 💻 I am currently pursuing a degree in App Development at the Stockholm Technical Institute, with an expected graduation date of June 2024. Following graduation, I intend to apply my skills in either Hybrid or Native app development, developing to iOS, Android, or web platforms.
 
-💼 Presently, I am employed as a Fullstack iOS XR app developer at XRSolutions. My role is an internship position spanning from November 2023 to April 2024.
+💼 I am employed as a Fullstack iOS XR app developer at XRSolutions. I have an internship position spanning from November 2023 to April 2024.
 
 Explore my portfolio to view some of my public projects across various languages, including Swift, JavaScript, TypeScript, Kotlin and Java!
 
