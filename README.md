@@ -11,7 +11,7 @@ I hold a **degree in App Development** from **Stockholm Technical Institute** an
 💼 **Professional Experience**  
 - **Founder & Fullstack Developer** @ **RovenkoDev**  
   - Running my own **coding studio**, where I develop and maintain successful apps and SaaS.  
-  - **Creator of [30 Day Fitness](https://play.google.com/store/apps/details?id=com.rovenkodev.FitnessGuru&hl=en-US&ah=sXbTflmEf7tlR1i64y0cc5ZwCm8)
+  - Creator of [30 Day Fitness](https://play.google.com/store/apps/details?id=com.rovenkodev.FitnessGuru&hl=en-US&ah=sXbTflmEf7tlR1i64y0cc5ZwCm8)
   - Providing **consulting and development services** for various mobile and web projects.  
 
 - **Lead Fullstack iOS AR App Developer Intern** @ **XRSolutions** (Nov 2023 - Apr 2024)  
@@ -31,8 +31,8 @@ Explore my [portfolio](https://www.robertrovenko.com/) and **featured projects**
 
 🏆 **Scholarships**  
 Awarded **two scholarships** for my achievements in **app development**.  
-<img src="https://github.com/user-attachments/assets/a3dd5342-a06c-47b9-a874-cbd599d7b9cb" width="600">
-<img src="https://github.com/user-attachments/assets/3e621ae7-4826-40ba-bcd4-02d899a43478" width="600">
+<img src="https://github.com/user-attachments/assets/a3dd5342-a06c-47b9-a874-cbd599d7b9cb" width="300">
+<img src="https://github.com/user-attachments/assets/3e621ae7-4826-40ba-bcd4-02d899a43478" width="300">
 
 📫 **Connect with Me**  
 
