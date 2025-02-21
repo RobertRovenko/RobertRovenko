@@ -31,6 +31,8 @@ Explore my [portfolio](https://www.robertrovenko.com/) and **featured projects**
 
 🏆 **Scholarships**  
 Awarded **two scholarships** for my achievements in **app development**.  
+<img src="https://github.com/user-attachments/assets/a3dd5342-a06c-47b9-a874-cbd599d7b9cb" width="600">
+<img src="https://github.com/user-attachments/assets/3e621ae7-4826-40ba-bcd4-02d899a43478" width="600">
 
 📫 **Connect with Me**  
 
