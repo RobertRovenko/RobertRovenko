@@ -33,25 +33,18 @@ Explore my [portfolio](https://www.robertrovenko.com/) and **featured projects**
 Awarded **two scholarships** for my achievements in **app development**.  
 
 📫 **Connect with Me**  
-[![LinkedIn](https://github.com/RobertRovenko/RobertRovenko/blob/main/linkedin.png)](https://www.linkedin.com/in/robert-falkb%C3%A4ck/)  
-[![Instagram](https://github.com/RobertRovenko/RobertRovenko/blob/main/instagram.png)](https://www.instagram.com/robertfalkback/)  
+
+<a href="https://www.linkedin.com/in/robert-falkb%C3%A4ck/">
+  <img src="https://github.com/RobertRovenko/RobertRovenko/blob/main/linkedin.png" width="40" height="40">
+</a>
+
+<a href="https://www.instagram.com/robertfalkback/">
+  <img src="https://github.com/RobertRovenko/RobertRovenko/blob/main/instagram.png" width="40" height="40">
+</a>
 
 ### Visit my Website:
 
 [Robert Falkbäck Rovenko](https://www.robertrovenko.com/)
-
-## 📊 GitHub Stats  
-
-![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertRovenko&show_icons=true&theme=tokyonight&count_private=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertRovenko&layout=compact&theme=tokyonight)  
-
-🏆 **GitHub Trophies**  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RobertRovenko&theme=onedark&no-frame=true&margin-w=10)  
-
-👀 **Visitor Count**  
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RobertRovenko)  
-
 
 ## 💼 Technical Skills  
 
@@ -90,6 +83,18 @@ Awarded **two scholarships** for my achievements in **app development**.
 💡 **Other Interests**  
 - **Athlete** 🏋️‍♂️ → Fitness and technology go hand in hand.  
 - **Game Development 🎮** → Passionate about interactive media & immersive experiences.  
+
+## 📊 GitHub Stats  
+
+![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertRovenko&show_icons=true&theme=tokyonight&count_private=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertRovenko&layout=compact&theme=tokyonight)  
+
+🏆 **GitHub Trophies**  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RobertRovenko&theme=onedark&no-frame=true&margin-w=10)  
+
+👀 **Visitor Count**  
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RobertRovenko)  
 
 
 <!--
